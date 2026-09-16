@@ -1,0 +1,6 @@
+{
+  "name": "VoomToon Studio",
+  "description": "Professional creative animation and character posing studio dashboard for VoomComix dark fantasy manga and webtoon creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

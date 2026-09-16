@@ -1,0 +1,72 @@
+[
+  {
+    "id": "walking",
+    "displayName": "Walking",
+    "category": "Walking",
+    "fbx": "/assets/animations/Walking.fbx",
+    "description": "Natural bipedal forward walk cycle with dynamic arm swing"
+  },
+  {
+    "id": "running",
+    "displayName": "Running",
+    "category": "Running",
+    "fbx": "/assets/animations/Running.fbx",
+    "description": "High-energy athletic running sprint with forward torso drive"
+  },
+  {
+    "id": "crouched_walking",
+    "displayName": "Crouched Walking",
+    "category": "Walking",
+    "fbx": "/assets/animations/Crouched_Walking.fbx",
+    "description": "Low stealth crouch-walk with lowered hips and bent knees"
+  },
+  {
+    "id": "walking_backwards",
+    "displayName": "Walking Backwards",
+    "category": "Walking",
+    "fbx": "/assets/animations/Walking_Backwards.fbx",
+    "description": "Cautious backward stepping cycle with reversed foot roll"
+  },
+  {
+    "id": "unarmed_run_forward",
+    "displayName": "Unarmed Run Forward",
+    "category": "Running",
+    "fbx": "/assets/animations/Unarmed_Run_Forward.fbx",
+    "description": "Realistic combat sprint with defensive posture and pace"
+  },
+  {
+    "id": "unarmed_run_backward",
+    "displayName": "Unarmed Run Backward",
+    "category": "Running",
+    "fbx": "/assets/animations/Unarmed_Run_Backward.fbx",
+    "description": "Tactical backward retreat run maintaining target focus"
+  },
+  {
+    "id": "walker_walk",
+    "displayName": "Walker Walk",
+    "category": "Walking",
+    "fbx": "/assets/animations/Walker_Walk.fbx",
+    "description": "Deliberate pacing walk with prominent hip sway and arm cadence"
+  },
+  {
+    "id": "fast_run",
+    "displayName": "Sprint Run",
+    "category": "Running",
+    "fbx": "/assets/animations/Fast_Run.fbx",
+    "description": "Full velocity sprint with aggressive stride and arm drive"
+  },
+  {
+    "id": "casual_walk",
+    "displayName": "Casual Walk",
+    "category": "Walking",
+    "fbx": "/assets/animations/Casual_Walk.fbx",
+    "description": "Relaxed street walk with gentle shoulder sway"
+  },
+  {
+    "id": "strut_walk",
+    "displayName": "Stylized Walk",
+    "category": "Walking",
+    "fbx": "/assets/animations/Strut_Walk.fbx",
+    "description": "Confident runway strut with exaggerated hip and shoulder motion"
+  }
+]
